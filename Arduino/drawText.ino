@@ -8,7 +8,7 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT);
 
 void setup() {
-    display.begin(SSD1306_SWITCHCAPVCC, 0x3C); // Change 0x3C
+    display.begin(SSD1306_SWITCHCAPVCC, 0x3C); //0x3C is screen address
 }
 
 void loop() {
