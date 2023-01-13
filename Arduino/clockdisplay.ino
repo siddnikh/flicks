@@ -7,7 +7,7 @@
 
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0); 
  
-// 데이터핀 연결
+
 // SCL - pin A5
 // SDA - pin A4
  
