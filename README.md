@@ -7,7 +7,7 @@ Primary Tech Stack: Native for Android app
 IoT Stack: HC-05 bluetooth module, Arduino Pro Mini , FTDI Module , 0.96 Oled Display , Retrowatch Operating System.
 
 
-# HOW THE IOT DEVICES ARE CONNECTED AND FUNCTIONING
+# HOW THE IOT DEVICES ARE CONNECTED AND THEIR FUNCTIONING
 
 All elements of the IOT stack are connected to each other using bread board and jumper wires which are soldered together with precision for strong conectivity between the elements.
 
