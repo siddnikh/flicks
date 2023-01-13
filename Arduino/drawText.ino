@@ -20,5 +20,5 @@ void loop() {
     display.print("Hello, World!");
     display.setCursor(40, 40);
     display.print(millis());
-    display.display();9
+    display.display();
 }
